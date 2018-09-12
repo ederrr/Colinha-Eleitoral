@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "Colinha Eleitoral",
+    "sdkVersion": "27.0.0",
+    "icon": "./logo.png",
+    "description": "Uma cola eleitoral simples e funcional.",
+    "version": "1.0.0",
+    "ios": {
+      "bundleIdentifier": "com.ederrr.colinhaeleitoral"
+    },
+    "android": {
+      "package": "com.ederrr.colinhaeleitoral"
+    }
+  }
+}
